@@ -116,6 +116,19 @@ Que alguien pueda decir al leerlo:
 
 -----
 
+## 🤝 ¿Cómo colaborar?
+
+Si quieres participar puedes:
+
+- Abrir **issues** para proponer símbolos, ideas o sugerencias.
+- Enviar **pull requests** con fragmentos nuevos, correcciones o reescrituras.
+
+Cada aporte queda registrado en el historial de **commits** y la actividad en **issues**,
+lo que servirá para reconocer a quienes colaboren. Consulta
+[COLABORACION.md](COLABORACION.md) para conocer las pautas completas.
+
+-----
+
 ## 🔒 LICENCIA
 
 Todo el contenido de este repositorio se distribuye bajo la [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](LICENSE).
