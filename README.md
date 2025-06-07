@@ -1,4 +1,5 @@
 # LIBERANDO AL THETAN
+*English version available in [README_EN.md](README_EN.md).* 
 
 ## Las enseñanzas de la Cienciología: arqueología simbólica de un sistema de control
 
