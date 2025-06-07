@@ -127,6 +127,17 @@ Cada aporte queda registrado en el historial de **commits** y la actividad en **
 lo que servirá para reconocer a quienes colaboren. Consulta
 [COLABORACION.md](COLABORACION.md) para conocer las pautas completas.
 
+## 🛠️ Compilación del libro
+
+El script `build.sh` genera un único archivo a partir de todos los documentos Markdown usando [pandoc](https://pandoc.org/). Por defecto produce `libro.pdf`, pero se puede indicar un nombre diferente (por ejemplo, con extensión `.html`).
+
+```bash
+./build.sh            # genera libro.pdf
+./build.sh libro.html # genera HTML
+```
+
+Necesitas tener `pandoc` instalado para que la conversión funcione.
+
 -----
 
 ## 🔒 LICENCIA
