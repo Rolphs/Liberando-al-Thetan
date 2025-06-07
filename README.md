@@ -113,3 +113,9 @@ Que alguien pueda decir al leerlo:
 **El libro como manual de ingeniería inversa del alma**: cómo desmontar un sistema de control, extraer sus componentes útiles, y construir algo nuevo, libre y fértil.
 
 **La revolución silenciosa**: no prometemos superpoderes, prometemos algo más radical - la belleza de ser **completamente, complicadamente humanos**.
+
+-----
+
+## 🔒 LICENCIA
+
+Todo el contenido de este repositorio se distribuye bajo la [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](LICENSE).
