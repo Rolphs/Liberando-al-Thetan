@@ -54,6 +54,10 @@ Si este libro se convierte en una obra publicada —física, digital, ritual o s
 Esto no es un proyecto de autor.  
 Es un **acto colectivo de reconfiguración simbólica**.
 
+## 🔖 Licencia de las contribuciones
+
+Todo texto añadido a este repositorio se libera bajo la licencia Creative Commons Attribution-ShareAlike 4.0 International. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
+
 ## 🌱 Gracias por estar aquí
 
 Este libro es una flor que alguien —un thetan, quizás— dejó al irse.  
