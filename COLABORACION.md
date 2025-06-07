@@ -49,7 +49,7 @@ Si este libro se convierte en una obra publicada —física, digital, ritual o s
 
 - Se reconocerá públicamente a cada persona que haya contribuido.
 - Se buscará un sistema de reparto justo (si hay beneficios) basado en criterios **híbridos de calidad y cantidad**.
-- Todo quedará documentado en un archivo `CREDITS.md` (y, si hace falta, un `ROYALTY-GUIDE.md`).
+- Todo quedará documentado en un archivo [CREDITS.md](CREDITS.md) (y, si hace falta, un `ROYALTY-GUIDE.md`).
 
 Esto no es un proyecto de autor.  
 Es un **acto colectivo de reconfiguración simbólica**.
